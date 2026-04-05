@@ -6,6 +6,6 @@ PLC Panels work by receiving input signals from various sensors and devices, pro
   <img src="PLC Pannel_.jpg" width="25%" />
   <img src="Power Distribution supply of PLC pannel_.jpg" width="25%" />
   <img src="Relly wireing_.jpg" width="25%" />
-  <video src="Snapchat-1267540087.gif" width="25%" />
+  <vid src="Snapchat-1267540087.gif" width="25%" />
 </p>
 <p align="center"><i>Main LT Panel and Component Wiring (Lechler India Internship)</i></p>
